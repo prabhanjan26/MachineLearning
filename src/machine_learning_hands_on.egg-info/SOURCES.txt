@@ -1,6 +1,0 @@
-pyproject.toml
-src/machine_learning_hands_on.egg-info/PKG-INFO
-src/machine_learning_hands_on.egg-info/SOURCES.txt
-src/machine_learning_hands_on.egg-info/dependency_links.txt
-src/machine_learning_hands_on.egg-info/requires.txt
-src/machine_learning_hands_on.egg-info/top_level.txt

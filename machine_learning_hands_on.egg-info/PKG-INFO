@@ -6,3 +6,4 @@ Requires-Python: >=3.10
 Requires-Dist: pandas>=2.2.0
 Requires-Dist: matplotlib>=3.9.0
 Requires-Dist: scikit-learn>=1.6.0
+Requires-Dist: dotenv
