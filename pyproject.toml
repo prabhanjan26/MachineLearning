@@ -1,0 +1,13 @@
+[project]
+name = "machine-learning-hands-on"
+version = "0.1.0"
+description = "Getting my hands dirty"
+requires-python = ">=3.10"
+
+dependencies = [
+    "pandas>=2.2.0",
+    "matplotlib>=3.9.0",
+    "scikit-learn>=1.6.0",
+    "dotenv"
+    
+]
